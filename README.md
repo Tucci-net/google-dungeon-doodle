@@ -1,6 +1,6 @@
 # My Topic Google Doodle
 
-50+ words about your Google Doodle.
+There Is simply not enough DnD Styled Web Design Pieces and I plan to rectify such! From Angband style barbarians to flash style limbs and potions we got it all here and animated too! Be sure to wait a second as the animation fools many... 
 
 ## Collage
 
