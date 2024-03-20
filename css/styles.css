@@ -1,25 +1,86 @@
-/* My Awesome Styles */
-
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
-
+/* 
 * {
-    outline: 1px dotted black;
-}
+  outline: 1px dotted black;
+} */
 
 /* Doodle Stage */
 #stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
+  /* match to your SVG  */
+  height: 275px;
+  width: 650px;
 }
 
-#heart1 {
+#bigE {
+  fill: #692884;
+}
+
+#leftEyeRing {
+  transform: translate(225px, 150px);
+}
+#leftEyeFill {
+  transform: translate(236px, 160.5px);
+  viewbox: ;
+}
+#leftPupil {
+  transform: translate(255px, 160px);
+}
+#rightEyeRing {
+  transform: translate(325px, 150px);
+}
+#rightEyeFill {
+  transform: translate(336px, 160.5px);
+  viewbox: ;
+}
+#rightPupil {
+  transform: translate(360px, 160px);
+}
+#mouth {
+  transform: translate(0px, -20px);
+  stroke: #287184;
+}
+
+#all {
+  transform: translate(-35px, -8px);
+}
+
+#firstG {
+  transform: translate(75px, 65px);
+  fill: #4285f4;
+}
+
+#firstO {
+  transform: translate(205px, 95px);
   fill: red;
 }
 
-#heart2 {
-  fill: green;
+#secondO {
+  transform: translate(310px, 95px);
+  fill: #fbbc05;
+}
+
+#secondG {
+  transform: translate(415px, 100px);
+  fill: #4285f4;
+}
+
+#theL {
+  transform: translate(520px, 60px);
+  fill: #34a853;
+}
+
+#theE {
+  transform: translate(550px, 95px);
+  fill: #ea4335;
+}
+
+#wholePotion {
+  filter: drop-shadow(2px 6px 2px rgb(0 0 0 / 0.3));
+}
+#pupils {
+  filter: drop-shadow(0 0 0.5rem yellow);
+}
+#eyes {
+  stroke: "black";
+  stroke-width: "3";
+  fill: black;
 }
